@@ -1,4 +1,4 @@
-# SAEMSUNGBOT | LLM RAG 기반 챗봇
+# 🤖SAEMSUNGBOT | LLM RAG 기반 챗봇
 
 ![대문 이미지](image/SAEMSUNGBOT.png)
 
@@ -7,6 +7,7 @@
 **팀 이름** : SAEMSUNGBOT(샘숭이)
 
 **프로젝트 개요** : 더 편리한 제품 안내를 위한 챗봇, SAEMSUNGBOT
+
 
 --------
 
@@ -19,6 +20,7 @@
 
 ![개발배경2](image/background_2.png)
 
+
 ### **개발 목적**
 
 **따라서 검색을 더 편리하게 할 수 있고, 더 깊은 정보를 얻을 수 있는 챗봇을 만들고자 했다.**
@@ -26,7 +28,7 @@
 
 -------
 
-### **프로젝트 소개**
+### **💻프로젝트 소개**
 - 프로젝트 기간 : 2024.12.18 ~ 12.20
 - 팀원 : 이예진, 조은비, 허채연
 - 목적 : 개선된 챗봇 '샘숭이' 개발
@@ -50,18 +52,18 @@
 
 -----
 
-### **프롬프트 흐름도**
+### **🧠프롬프트 흐름도**
 ![프롬프트 흐름도 매뉴얼](image/Product_Chatbot.png)
 
 -----
 
-### **챗봇 응답 - Product_Feature_Chatbot**
+### **📺챗봇 응답 - Product_Feature_Chatbot**
 
 ![제품 챗봇 응답](image/Product_Feature_Chatbot.png)
 
 -----
 
-### **챗봇 응답 - Product_Repair_Chatbot**
+### **👩‍🔧챗봇 응답 - Product_Repair_Chatbot**
 
 ![수리비 챗봇 응답](image/Product_Repair_Chatbot.png)
 
